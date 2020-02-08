@@ -27,7 +27,7 @@
                                 </div>
                             </div>
                             <button type="submit" class="btn btn-primary btn-user btn-block">
-                                Register Account
+                                Daftarkan Akun
                             </button>
                         </form>
                         <hr>
