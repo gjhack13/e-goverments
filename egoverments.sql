@@ -54,7 +54,7 @@ CREATE TABLE `user`
 
 INSERT INTO `user`
   (`id`, `name
-`, `email`, `image`, `password`, `role_id`, `is_active`, `date_created`) VALUES
+  `, `email`, `image`, `password`, `role_id`, `is_active`, `date_created`) VALUES
 (1, 'Zakky Firdaus', 'zakkyfirdaus97@yahoo.co.id', 'default.jpg', '$2y$10$F0nJ5oePPm.JbGrFQIPYne7kJ3/5VnTUNrnjn0hCLnalkG6lbHQKK', 2, 1, 1581340814);
 
 -- --------------------------------------------------------
